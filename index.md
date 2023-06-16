@@ -16,7 +16,7 @@ Mentor info goes here.
 
 ## About My Project
 
-#### Elevating Black Corpus and UX in Speech & Language Systems
+Elevating Black Corpus and UX in Speech & Language Systems
 
 Project description goes here.
 
