@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Summer 2020 DREU Project Site
+title: Summer 2023 DREU Project Site
 ---
 
 * TOC
@@ -8,7 +8,7 @@ title: Summer 2020 DREU Project Site
 
 ## About Me
 
-My info goes here.
+Hello, my name is Samira Shirazy and I am an incoming third year student at the University of Washington. I am studying Human Centered Design & Engineering. 
 
 ## About My Mentor
 
