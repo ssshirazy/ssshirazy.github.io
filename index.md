@@ -14,7 +14,7 @@ Hello, my name is Samira Shirazy and I am an incoming third year student at the 
 
 Mentor info goes here.
 
-## About My Project
+## About My Project: Elevating Black Corpus and UX in Speech & Language Systems
 
 Project description goes here.
 
