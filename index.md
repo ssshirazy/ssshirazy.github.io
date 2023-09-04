@@ -17,7 +17,9 @@ Jay Cunningham is an HCDE PhD student and has been appointed by Washington Gover
 
 Elevating Black Corpus and UX in Speech & Language Systems
 
-Project description goes here.
+We are diligently working to confront disparities and advance equity within speech recognition softwares. Historically, marginalized communities have been left out of this conversation. 
+
+We're actively pursuing partnerships with Seattle-based local organizations, driven by our commitment to community-based participatory research techniques. These principles underpin our approach to co-designing technology solutions that empower historically marginalized communities, fostering collaboration and equity. Our immediate goal is to initiate a research project aimed at addressing racial disparities in automated speech recognition and natural language processing, specifically targeting communities of Black American English speakers.
 
 [My Final Report](files/finalreport.pdf)
 
